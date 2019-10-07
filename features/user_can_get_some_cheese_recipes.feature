@@ -7,3 +7,4 @@ Feature: User can get some cheese recipes
     Given I visit the home page
     Then I would like to see "Cheese recipes"
     And I would like to see "Three-Cheese Pizza"
+    And I would like to see "Cauldron Cheese Ball"
