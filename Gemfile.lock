@@ -305,6 +305,7 @@ DEPENDENCIES
   pry-rails
   puma (~> 3.11)
   rails (~> 5.2.0)
+  rest-client
   rspec-rails
   sass-rails (~> 5.0)
   selenium-webdriver
