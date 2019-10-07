@@ -12,12 +12,7 @@ module FoodService
         }
       }
     ) 
-    
-    binding.pry
-    
-      
     recipes = JSON.parse(response)
-    
     recipes['results']
   end
 end
